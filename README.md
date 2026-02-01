@@ -1,4 +1,16 @@
 # BasketballSynth
 
+Basketball simulator for synthetic data generation and video rendering.
 
-<img width="1504" height="861" alt="image" src="https://github.com/user-attachments/assets/807e49ba-556b-4e88-ad38-f78e092d478e" />
+## Demo
+<!-- 放截图/GIF 或视频链接 -->
+- Video: (link)
+- Samples: (images)
+
+## What it provides
+- Synthetic basketball scenes
+- Configurable camera/lighting
+- Export: video / annotations (optional)
+
+## Contact
+Haobin Qin (Nagoya Univ.)
