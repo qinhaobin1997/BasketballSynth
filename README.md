@@ -4,7 +4,7 @@ Basketball simulator for synthetic data generation and video rendering.
 
 ## Demo
 <!-- 放截图/GIF 或视频链接 -->
-- Video: (link)
+- Video: ([link](https://drive.google.com/file/d/1E758tiaTuHc6WnYSeNjJxqEJFii-STif/view?usp=drive_link))
 - Samples: (images)
 
 ## What it provides
