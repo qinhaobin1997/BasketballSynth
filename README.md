@@ -4,7 +4,7 @@ Basketball simulator for synthetic data generation and video rendering.
 ## Samples
 <p>
   <img src="fig1.gif" width="49%"/>
-  <img src="fig3.gif" width="49%"/>
+  <img src="fig3.gif" width="24%"/>
 </p>
 
 ## Demo
