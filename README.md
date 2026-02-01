@@ -1,6 +1,11 @@
 # BasketballSynth
 
 Basketball simulator for synthetic data generation and video rendering.
+## Samples
+<p>
+  <img src="fig1.gif" width="49%"/>
+  <img src="fig2.gif" width="49%"/>
+</p>
 
 ## Demo
 <!-- 放截图/GIF 或视频链接 -->
