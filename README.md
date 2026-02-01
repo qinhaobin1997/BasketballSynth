@@ -3,8 +3,8 @@
 Basketball simulator for synthetic data generation and video rendering.
 ## Samples
 <p>
-  <img src="fig1.gif?raw=1" width="49%"/>
-  <img src="fig3.gif?raw=1" width="49%"/>
+  <img src="image4.gif?raw=1" width="49%"/>
+  <img src="image3.gif?raw=1" width="24%"/>
 </p>
 
 
