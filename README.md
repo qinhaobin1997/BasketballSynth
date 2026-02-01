@@ -6,7 +6,7 @@ Basketball simulator for synthetic data generation and video rendering.
   <img src="image4.gif?raw=1" width="49%"/>
   <img src="image3.gif?raw=1" width="24%"/>
 </p>
-
+   <img src="image2.png?raw=1" width="49%"/>
 
 ## Demo
 <!-- 放截图/GIF 或视频链接 -->
