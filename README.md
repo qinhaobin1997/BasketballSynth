@@ -1,6 +1,6 @@
 # BasketballSynth
 
-Basketball simulator for synthetic data generation and video rendering.
+Basketball simulator for synthetic data generation and video rendering. 
 
 ## Samples
 <p>
